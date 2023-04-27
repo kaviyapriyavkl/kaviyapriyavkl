@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.E CSE at KPRIET<br>👯 I’m looking for good internship<br>🌱 I’m currently learning UI/UX Design and Front End Development<br>💬 Ask me about Front End Development <br>⚡ Contact me for collaboration 👉 kavikannavkl@gmail.com 
+🔭 I’m currently pursuing B.E CSE at KPRIET<br>👯 I’m looking for good internship<br>🌱 I’m currently learning UI/UX Design and Front End Development<br>💬 Ask me about Front End Development <br>⚡ Contact me for collaboration 👉 **Email:**kavikannavkl@gmail.com 
 
 [![](https://visitcount.itsvg.in/api?id=kaviyapriyavkl&icon=0&color=0)](https://visitcount.itsvg.in)
 
